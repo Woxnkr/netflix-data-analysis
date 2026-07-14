@@ -101,7 +101,7 @@ netflix-data-analysis/
 
 ### Release Year Trend
 
-![Release Year Trend](images/release_year_trend.png)
+![Release Year Trend](images/release_years_trend.png)
 
 ---
 
